@@ -209,7 +209,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      whitespacedesign\@gmail.com
   - type: DividerSection
     styles:
       self:

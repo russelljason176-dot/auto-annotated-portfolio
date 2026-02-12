@@ -178,7 +178,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: Website design
+        label: Website Design
       - type: Label
         label: React
       - type: Label

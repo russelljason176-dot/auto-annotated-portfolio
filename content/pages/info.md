@@ -184,7 +184,7 @@ sections:
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Next.js
+        label: AI Agent Building
       - type: Label
         label: Netlify
       - type: Label

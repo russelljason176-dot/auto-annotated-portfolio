@@ -180,7 +180,7 @@ sections:
       - type: Label
         label: Website Design
       - type: Label
-        label: React
+        label: Website Development
       - type: Label
         label: Microsoft Office
       - type: Label

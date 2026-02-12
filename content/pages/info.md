@@ -192,7 +192,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: Swift
+        label: AI Automation
   - type: DividerSection
     styles:
       self:
